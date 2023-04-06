@@ -146,4 +146,93 @@ a:hover{
     color: blue;
 }
 
+#services{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(241, 241, 241);
+    margin-top: 160px;
+    height: 475px;
+}
+
+
+#services h2{
+    padding-top: 162px;
+    font-size: 40px;
+    text-align: center;
+}
+ul{
+    margin-top: 45px;
+    text-align: center;
+}
+li{
+    display: inline-block;
+}
+
+li:nth-child(1){
+    font-size: 19px;
+    width: 233px;
+    height: 98px;
+    padding: 38px;
+    background-color: orangered;
+    margin-right: 38px;
+    cursor: pointer;
+    margin-left: 31px;
+}
+
+li:nth-child(2){
+    font-size: 19px;
+    background-color: white;
+    width: 233px;
+    height: 98px;
+    padding: 38px;
+    margin-right: 38px;
+    cursor: pointer;  
+}
+
+li:nth-child(3){
+    font-size: 19px;
+    background-color: white;
+    width: 233px;
+    height: 98px;
+    padding: 38px;
+    margin-right: 38px;
+    cursor: pointer;  
+}
+
+li:nth-child(4){
+    font-size: 19px;
+    background-color: white;
+    width: 233px;
+    height: 98px;
+    padding: 38px;
+    margin-right: 38px;
+    cursor: pointer;  
+}
+
+li:nth-child(5){
+    font-size: 19px;
+    background-color: white;
+    width: 233px;
+    height: 98px;
+    padding: 38px;
+    margin-right: 38px;
+    cursor: pointer;  
+}
+
+li:nth-child(5):hover{
+    box-shadow: 0px 0px 15px 1px rgb(193, 193, 193);
+}
+li:nth-child(4):hover{
+    box-shadow: 0px 0px 15px 1px rgb(193, 193, 193);
+}
+li:nth-child(3):hover{
+    box-shadow: 0px 0px 15px 1px rgb(193, 193, 193);
+}
+li:nth-child(2):hover{
+    box-shadow: 0px 0px 15px 1px rgb(193, 193, 193);
+}
+li:nth-child(1):hover{
+    box-shadow: 0px 0px 15px 1px rgb(163, 163, 163);
+}
+
+
 
