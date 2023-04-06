@@ -198,5 +198,15 @@ li:nth-child(3){
     cursor: pointer;  
 }
 
+li:nth-child(4){
+    font-size: 19px;
+    background-color: white;
+    width: 233px;
+    height: 98px;
+    padding: 38px;
+    margin-right: 38px;
+    cursor: pointer;  
+}
+
 
 
