@@ -34,10 +34,20 @@
     top: 403px;
 }
 
+#blog{
+    padding-left: 167px;
+}
 
 #blog h2{
     margin-top: 162px;
     font-size: 40px;
     text-align: center;
     padding-right: 168px;
+}
+
+img{
+    object-fit: cover;
+    object-position: bottom top;
+    height: 200px;
+    width: 378px;
 }
