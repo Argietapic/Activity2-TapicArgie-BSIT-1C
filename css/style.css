@@ -14,3 +14,9 @@
      background-position: center;
      height: 98.6vh;
 }
+
+#landing h1{
+    font-size: 64px;
+    position: relative;
+    text-shadow: 2px 2px 1px black;
+}
