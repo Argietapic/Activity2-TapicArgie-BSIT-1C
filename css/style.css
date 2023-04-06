@@ -163,5 +163,8 @@ ul{
     margin-top: 45px;
     text-align: center;
 }
+li{
+    display: inline-block;
+}
 
 
