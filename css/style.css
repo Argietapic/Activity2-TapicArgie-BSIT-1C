@@ -178,4 +178,15 @@ li:nth-child(1){
     margin-left: 31px;
 }
 
+li:nth-child(2){
+    font-size: 19px;
+    background-color: white;
+    width: 233px;
+    height: 98px;
+    padding: 38px;
+    margin-right: 38px;
+    cursor: pointer;  
+}
+
+
 
