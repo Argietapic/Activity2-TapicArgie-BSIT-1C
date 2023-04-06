@@ -135,6 +135,13 @@ div p{
     line-height: 1.5;
     font-weight: 500;
 }
+
+a{
+    color: rgb(128, 128, 128);
+    padding-left: 33px;
+    padding-right: 40px;
+    text-decoration: none;
+}
 a:hover{
     color: blue;
 }
