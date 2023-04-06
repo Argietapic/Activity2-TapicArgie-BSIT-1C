@@ -167,4 +167,15 @@ li{
     display: inline-block;
 }
 
+li:nth-child(1){
+    font-size: 19px;
+    width: 233px;
+    height: 98px;
+    padding: 38px;
+    background-color: orangered;
+    margin-right: 38px;
+    cursor: pointer;
+    margin-left: 31px;
+}
+
 
